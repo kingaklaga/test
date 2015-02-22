@@ -2,3 +2,6 @@ wzrost 163
 waga 52.8
 wiek 24
 plec kobieta
+status wolna
+
+druga galaz

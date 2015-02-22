@@ -1,4 +1,4 @@
 wzrost
 waga 
 wiek 
-plec
+plec nieznana

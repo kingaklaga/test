@@ -1,4 +1,4 @@
-wzrost
-waga za duzo
-wiek 
-plec nieznana
+wzrost 163
+waga 52.8
+wiek 24
+plec kobieta

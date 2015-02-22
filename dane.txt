@@ -1,0 +1,4 @@
+wzrost
+waga 
+wiek 
+plec
